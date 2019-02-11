@@ -10,7 +10,8 @@
 
 レジストリの設定により書き込み先を変更できます。
 
-キー HKEY_LOCAL_MACHINE\SOFTWARE\UiPathTeam\SessionLogger 
+キー HKEY_LOCAL_MACHINE\SOFTWARE\UiPathTeam\SessionLogger
+
 データ LogFileName
 
 ### 使用法
